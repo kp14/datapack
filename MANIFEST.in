@@ -1,0 +1,3 @@
+include ansi_files/datafiles/test_ont/test.zcs
+include ansi_files/datafiles/test_ont/test.skip
+include ansi_files/datafiles/other_ont/other.syn
