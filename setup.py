@@ -8,7 +8,7 @@ from setuptools import setup
 
 setup(name='ansi_files',
       version='0.3',
-      description='Some ancilary files',
+      description='Some ancillary files',
       long_description="blah blah blah",
       # long_description=readme(),
       classifiers=[
